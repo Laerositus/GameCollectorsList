@@ -8,7 +8,6 @@ import java.nio.charset.StandardCharsets;
 
 
 public class Main extends Application {
-    private Connection con=Database.estConnection();
 
     @Override
     public void start(Stage primaryStage){
